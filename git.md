@@ -18,3 +18,7 @@ git commit -a -m "Updated index.html with a new line"
 
 git log
 
+git branch hello-world
+git branch
+git checkout hello-world
+
